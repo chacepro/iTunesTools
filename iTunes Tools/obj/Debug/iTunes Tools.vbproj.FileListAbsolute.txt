@@ -35,3 +35,14 @@ D:\Code\VB\iTunes Tools\iTunes Tools\obj\Debug\iTunes Assistant.xml
 D:\Code\VB\iTunes Tools\iTunes Tools\obj\Debug\iTunes Assistant.pdb
 D:\CODE\VB\iTunes Tools\iTunes Tools\obj\Debug\iTunes Tools.vbprojResolveAssemblyReference.cache
 D:\CODE\VB\iTunes Tools\iTunes Tools\obj\Debug\iTunes Tools.vbproj.GenerateResource.Cache
+C:\Users\Chace\Documents\GitHub\iTunesTools\iTunes Tools\bin\Debug\iTunes Assistant.exe.config
+C:\Users\Chace\Documents\GitHub\iTunesTools\iTunes Tools\obj\Debug\iTunes Assistant.exe
+C:\Users\Chace\Documents\GitHub\iTunesTools\iTunes Tools\obj\Debug\iTunes Assistant.xml
+C:\Users\Chace\Documents\GitHub\iTunesTools\iTunes Tools\obj\Debug\iTunes Assistant.pdb
+C:\Users\Chace\Documents\GitHub\iTunesTools\iTunes Tools\obj\Debug\iTunes Tools.vbprojResolveAssemblyReference.cache
+C:\Users\Chace\Documents\GitHub\iTunesTools\iTunes Tools\obj\Debug\iTunesAssistant.frmAbout.resources
+C:\Users\Chace\Documents\GitHub\iTunesTools\iTunes Tools\obj\Debug\iTunesAssistant.frmMain.resources
+C:\Users\Chace\Documents\GitHub\iTunesTools\iTunes Tools\obj\Debug\iTunesAssistant.frmClean.resources
+C:\Users\Chace\Documents\GitHub\iTunesTools\iTunes Tools\obj\Debug\iTunesAssistant.frmUserInfo.resources
+C:\Users\Chace\Documents\GitHub\iTunesTools\iTunes Tools\obj\Debug\iTunesAssistant.Resources.resources
+C:\Users\Chace\Documents\GitHub\iTunesTools\iTunes Tools\obj\Debug\iTunes Tools.vbproj.GenerateResource.Cache
