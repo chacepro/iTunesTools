@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "iTunes Tools", "iTunes Tools.vbproj", "{E40A7EAB-7128-4FD7-8A50-6595BCC7DB0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E40A7EAB-7128-4FD7-8A50-6595BCC7DB0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E40A7EAB-7128-4FD7-8A50-6595BCC7DB0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E40A7EAB-7128-4FD7-8A50-6595BCC7DB0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E40A7EAB-7128-4FD7-8A50-6595BCC7DB0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

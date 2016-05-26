@@ -1,0 +1,19 @@
+F:\Code\VB\iTunes Tools\iTunes Tools\obj\Release\ResolveAssemblyReference.cache
+F:\Code\VB\iTunes Tools\iTunes Tools\obj\Release\WindowsApplication1.frmMain.resources
+F:\Code\VB\iTunes Tools\iTunes Tools\obj\Release\WindowsApplication1.Resources.resources
+F:\Code\VB\iTunes Tools\iTunes Tools\obj\Release\iTunes Tools.vbproj.GenerateResource.Cache
+D:\Code\VB\iTunes Tools\iTunes Tools\bin\Release\iTunes Tools.exe.manifest
+D:\Code\VB\iTunes Tools\iTunes Tools\bin\Release\iTunes Tools.application
+D:\Code\VB\iTunes Tools\iTunes Tools\bin\Release\iTunes Tools.exe
+D:\Code\VB\iTunes Tools\iTunes Tools\bin\Release\iTunes Tools.pdb
+D:\Code\VB\iTunes Tools\iTunes Tools\bin\Release\iTunes Tools.xml
+D:\Code\VB\iTunes Tools\iTunes Tools\obj\Release\ResolveAssemblyReference.cache
+D:\Code\VB\iTunes Tools\iTunes Tools\obj\Release\iTunes Tools.vbproj.GenerateResource.Cache
+D:\Code\VB\iTunes Tools\iTunes Tools\obj\Release\iTunes Tools.exe.manifest
+D:\Code\VB\iTunes Tools\iTunes Tools\obj\Release\iTunes Tools.application
+D:\Code\VB\iTunes Tools\iTunes Tools\obj\Release\iTunes Tools.exe
+D:\Code\VB\iTunes Tools\iTunes Tools\obj\Release\iTunes Tools.xml
+D:\Code\VB\iTunes Tools\iTunes Tools\obj\Release\iTunes Tools.pdb
+D:\Code\VB\iTunes Tools\iTunes Tools\obj\Release\iTunesTools.frmAbout.resources
+D:\Code\VB\iTunes Tools\iTunes Tools\obj\Release\iTunesTools.frmMain.resources
+D:\Code\VB\iTunes Tools\iTunes Tools\obj\Release\iTunesTools.Resources.resources

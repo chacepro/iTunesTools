@@ -1,0 +1,11 @@
+To install:
+
+- Run iTunes Tools.application
+
+If error message occurs run setup.exe to install .NET framework.
+
+That's it.
+
+Enjoy!
+
+- Chace

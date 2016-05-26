@@ -1,0 +1,37 @@
+F:\Code\VB\iTunes Tools\iTunes Tools\bin\Debug\iTunes Tools.exe
+F:\Code\VB\iTunes Tools\iTunes Tools\bin\Debug\iTunes Tools.pdb
+F:\Code\VB\iTunes Tools\iTunes Tools\bin\Debug\iTunes Tools.xml
+F:\Code\VB\iTunes Tools\iTunes Tools\obj\Debug\ResolveAssemblyReference.cache
+F:\Code\VB\iTunes Tools\iTunes Tools\obj\Debug\WindowsApplication1.frmMain.resources
+F:\Code\VB\iTunes Tools\iTunes Tools\obj\Debug\WindowsApplication1.Resources.resources
+F:\Code\VB\iTunes Tools\iTunes Tools\obj\Debug\iTunes Tools.vbproj.GenerateResource.Cache
+F:\Code\VB\iTunes Tools\iTunes Tools\obj\Debug\iTunes Tools.exe
+F:\Code\VB\iTunes Tools\iTunes Tools\obj\Debug\iTunes Tools.xml
+F:\Code\VB\iTunes Tools\iTunes Tools\obj\Debug\iTunes Tools.pdb
+F:\Code\VB\iTunes Tools\iTunes Tools\bin\Debug\iTunes Tools.exe.manifest
+F:\Code\VB\iTunes Tools\iTunes Tools\bin\Debug\iTunes Tools.application
+F:\Code\VB\iTunes Tools\iTunes Tools\obj\Debug\iTunes Tools.exe.manifest
+F:\Code\VB\iTunes Tools\iTunes Tools\obj\Debug\iTunes Tools.application
+F:\Code\VB\iTunes Tools\iTunes Tools\obj\Debug\WindowsApplication1.frmAbout.resources
+D:\Code\VB\iTunes Tools\iTunes Tools\obj\Debug\ResolveAssemblyReference.cache
+D:\Code\VB\iTunes Tools\iTunes Tools\bin\Debug\TwitterVB.dll
+D:\Code\VB\iTunes Tools\iTunes Tools\obj\Debug\ResGen.read.1.tlog
+D:\Code\VB\iTunes Tools\iTunes Tools\obj\Debug\ResGen.write.1.tlog
+D:\Code\VB\iTunes Tools\iTunes Tools\bin\Debug\iTunes Assistant.exe.config
+D:\Code\VB\iTunes Tools\iTunes Tools\bin\Debug\iTunes Assistant.exe.manifest
+D:\Code\VB\iTunes Tools\iTunes Tools\bin\Debug\iTunes Assistant.application
+D:\Code\VB\iTunes Tools\iTunes Tools\bin\Debug\iTunes Assistant.exe
+D:\Code\VB\iTunes Tools\iTunes Tools\bin\Debug\iTunes Assistant.pdb
+D:\Code\VB\iTunes Tools\iTunes Tools\bin\Debug\iTunes Assistant.xml
+D:\Code\VB\iTunes Tools\iTunes Tools\obj\Debug\iTunesAssistant.frmAbout.resources
+D:\Code\VB\iTunes Tools\iTunes Tools\obj\Debug\iTunesAssistant.frmMain.resources
+D:\Code\VB\iTunes Tools\iTunes Tools\obj\Debug\iTunesAssistant.frmClean.resources
+D:\Code\VB\iTunes Tools\iTunes Tools\obj\Debug\iTunesAssistant.frmUserInfo.resources
+D:\Code\VB\iTunes Tools\iTunes Tools\obj\Debug\iTunesAssistant.Resources.resources
+D:\Code\VB\iTunes Tools\iTunes Tools\obj\Debug\iTunes Assistant.exe.manifest
+D:\Code\VB\iTunes Tools\iTunes Tools\obj\Debug\iTunes Assistant.application
+D:\Code\VB\iTunes Tools\iTunes Tools\obj\Debug\iTunes Assistant.exe
+D:\Code\VB\iTunes Tools\iTunes Tools\obj\Debug\iTunes Assistant.xml
+D:\Code\VB\iTunes Tools\iTunes Tools\obj\Debug\iTunes Assistant.pdb
+D:\CODE\VB\iTunes Tools\iTunes Tools\obj\Debug\iTunes Tools.vbprojResolveAssemblyReference.cache
+D:\CODE\VB\iTunes Tools\iTunes Tools\obj\Debug\iTunes Tools.vbproj.GenerateResource.Cache

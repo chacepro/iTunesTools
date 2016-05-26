@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="iTunes Tools">
+</Property><Property Name="Solution File" Value="D:\Code\VB\iTunes Tools\iTunes Tools.sln">
+</Property><Property Name="User Options File" Value="D:\Code\VB\iTunes Tools\iTunes Tools.suo">
+</Property><Property Name="Date" Value="Monday, August 23, 2010">
+</Property><Property Name="Time" Value="21:04 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="iTunes Tools.sln" Description="File successfully backed up as D:\Code\VB\iTunes Tools\Backup\iTunes Tools.sln">
+</Event><Event ErrorLevel="0" Project="" Source="iTunes Tools.suo" Description="File successfully backed up as D:\Code\VB\iTunes Tools\Backup\iTunes Tools.suo">
+</Event><Event ErrorLevel="0" Project="iTunes Tools" Source="iTunes Tools\iTunes Tools.vbproj" Description="Project file successfully backed up as D:\Code\VB\iTunes Tools\Backup\iTunes Tools\iTunes Tools.vbproj">
+</Event><Event ErrorLevel="0" Project="iTunes Tools" Source="iTunes Tools\iTunes Tools.vbproj.user" Description="Project user file successfully backed up as D:\Code\VB\iTunes Tools\Backup\iTunes Tools\iTunes Tools.vbproj.user">
+</Event><Event ErrorLevel="0" Project="iTunes Tools" Source="iTunes Tools\AboutBox1.Designer.vb" Description="File successfully backed up as D:\Code\VB\iTunes Tools\Backup\iTunes Tools\AboutBox1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="iTunes Tools" Source="iTunes Tools\AboutBox1.vb" Description="File successfully backed up as D:\Code\VB\iTunes Tools\Backup\iTunes Tools\AboutBox1.vb">
+</Event><Event ErrorLevel="0" Project="iTunes Tools" Source="iTunes Tools\ApplicationEvents.vb" Description="File successfully backed up as D:\Code\VB\iTunes Tools\Backup\iTunes Tools\ApplicationEvents.vb">
+</Event><Event ErrorLevel="0" Project="iTunes Tools" Source="iTunes Tools\Form1.vb" Description="File successfully backed up as D:\Code\VB\iTunes Tools\Backup\iTunes Tools\Form1.vb">
+</Event><Event ErrorLevel="0" Project="iTunes Tools" Source="iTunes Tools\Form1.Designer.vb" Description="File successfully backed up as D:\Code\VB\iTunes Tools\Backup\iTunes Tools\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="iTunes Tools" Source="iTunes Tools\Form2.Designer.vb" Description="File successfully backed up as D:\Code\VB\iTunes Tools\Backup\iTunes Tools\Form2.Designer.vb">
+</Event><Event ErrorLevel="0" Project="iTunes Tools" Source="iTunes Tools\Form2.vb" Description="File successfully backed up as D:\Code\VB\iTunes Tools\Backup\iTunes Tools\Form2.vb">
+</Event><Event ErrorLevel="0" Project="iTunes Tools" Source="iTunes Tools\My Project\AssemblyInfo.vb" Description="File successfully backed up as D:\Code\VB\iTunes Tools\Backup\iTunes Tools\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="iTunes Tools" Source="iTunes Tools\My Project\Application.Designer.vb" Description="File successfully backed up as D:\Code\VB\iTunes Tools\Backup\iTunes Tools\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="iTunes Tools" Source="iTunes Tools\My Project\Resources.Designer.vb" Description="File successfully backed up as D:\Code\VB\iTunes Tools\Backup\iTunes Tools\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="iTunes Tools" Source="iTunes Tools\My Project\Settings.Designer.vb" Description="File successfully backed up as D:\Code\VB\iTunes Tools\Backup\iTunes Tools\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="iTunes Tools" Source="iTunes Tools\ToolsClass.vb" Description="File successfully backed up as D:\Code\VB\iTunes Tools\Backup\iTunes Tools\ToolsClass.vb">
+</Event><Event ErrorLevel="0" Project="iTunes Tools" Source="iTunes Tools\iTunes Tools_TemporaryKey.pfx" Description="File successfully backed up as D:\Code\VB\iTunes Tools\Backup\iTunes Tools\iTunes Tools_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="iTunes Tools" Source="iTunes Tools\My Project\app.manifest" Description="File successfully backed up as D:\Code\VB\iTunes Tools\Backup\iTunes Tools\My Project\app.manifest">
+</Event><Event ErrorLevel="0" Project="iTunes Tools" Source="iTunes Tools\My Project\Application.myapp" Description="File successfully backed up as D:\Code\VB\iTunes Tools\Backup\iTunes Tools\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="iTunes Tools" Source="iTunes Tools\My Project\Settings.settings" Description="File successfully backed up as D:\Code\VB\iTunes Tools\Backup\iTunes Tools\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="iTunes Tools" Source="iTunes Tools\gui-dark.png" Description="File successfully backed up as D:\Code\VB\iTunes Tools\Backup\iTunes Tools\gui-dark.png">
+</Event><Event ErrorLevel="0" Project="iTunes Tools" Source="iTunes Tools\Resources\search-small1.png" Description="File successfully backed up as D:\Code\VB\iTunes Tools\Backup\iTunes Tools\Resources\search-small1.png">
+</Event><Event ErrorLevel="0" Project="iTunes Tools" Source="iTunes Tools\Resources\add-small1.png" Description="File successfully backed up as D:\Code\VB\iTunes Tools\Backup\iTunes Tools\Resources\add-small1.png">
+</Event><Event ErrorLevel="0" Project="iTunes Tools" Source="iTunes Tools\Resources\add-small.png" Description="File successfully backed up as D:\Code\VB\iTunes Tools\Backup\iTunes Tools\Resources\add-small.png">
+</Event><Event ErrorLevel="0" Project="iTunes Tools" Source="iTunes Tools\Resources\search-small.png" Description="File successfully backed up as D:\Code\VB\iTunes Tools\Backup\iTunes Tools\Resources\search-small.png">
+</Event><Event ErrorLevel="0" Project="iTunes Tools" Source="iTunes Tools\Resources\330369734188956325_sml3.png" Description="File successfully backed up as D:\Code\VB\iTunes Tools\Backup\iTunes Tools\Resources\330369734188956325_sml3.png">
+</Event><Event ErrorLevel="0" Project="iTunes Tools" Source="iTunes Tools\Resources\330369734188956325_sml2.png" Description="File successfully backed up as D:\Code\VB\iTunes Tools\Backup\iTunes Tools\Resources\330369734188956325_sml2.png">
+</Event><Event ErrorLevel="0" Project="iTunes Tools" Source="iTunes Tools\Resources\330369734188956325_sml1.png" Description="File successfully backed up as D:\Code\VB\iTunes Tools\Backup\iTunes Tools\Resources\330369734188956325_sml1.png">
+</Event><Event ErrorLevel="0" Project="iTunes Tools" Source="iTunes Tools\Resources\57735215119269279671.png" Description="File successfully backed up as D:\Code\VB\iTunes Tools\Backup\iTunes Tools\Resources\57735215119269279671.png">
+</Event><Event ErrorLevel="0" Project="iTunes Tools" Source="iTunes Tools\Resources\49132474915446511291.png" Description="File successfully backed up as D:\Code\VB\iTunes Tools\Backup\iTunes Tools\Resources\49132474915446511291.png">
+</Event><Event ErrorLevel="0" Project="iTunes Tools" Source="iTunes Tools\Resources\111277707417092761481.png" Description="File successfully backed up as D:\Code\VB\iTunes Tools\Backup\iTunes Tools\Resources\111277707417092761481.png">
+</Event><Event ErrorLevel="0" Project="iTunes Tools" Source="iTunes Tools\Resources\330369734188956325_sml.png" Description="File successfully backed up as D:\Code\VB\iTunes Tools\Backup\iTunes Tools\Resources\330369734188956325_sml.png">
+</Event><Event ErrorLevel="0" Project="iTunes Tools" Source="iTunes Tools\Resources\3303697341889563251.png" Description="File successfully backed up as D:\Code\VB\iTunes Tools\Backup\iTunes Tools\Resources\3303697341889563251.png">
+</Event><Event ErrorLevel="0" Project="iTunes Tools" Source="iTunes Tools\Resources\275315358403814441.png" Description="File successfully backed up as D:\Code\VB\iTunes Tools\Backup\iTunes Tools\Resources\275315358403814441.png">
+</Event><Event ErrorLevel="0" Project="iTunes Tools" Source="iTunes Tools\Resources\5773521511926927967.png" Description="File successfully backed up as D:\Code\VB\iTunes Tools\Backup\iTunes Tools\Resources\5773521511926927967.png">
+</Event><Event ErrorLevel="0" Project="iTunes Tools" Source="iTunes Tools\Resources\4913247491544651129.png" Description="File successfully backed up as D:\Code\VB\iTunes Tools\Backup\iTunes Tools\Resources\4913247491544651129.png">
+</Event><Event ErrorLevel="0" Project="iTunes Tools" Source="iTunes Tools\Resources\11127770741709276148.png" Description="File successfully backed up as D:\Code\VB\iTunes Tools\Backup\iTunes Tools\Resources\11127770741709276148.png">
+</Event><Event ErrorLevel="0" Project="iTunes Tools" Source="iTunes Tools\Resources\330369734188956325.png" Description="File successfully backed up as D:\Code\VB\iTunes Tools\Backup\iTunes Tools\Resources\330369734188956325.png">
+</Event><Event ErrorLevel="0" Project="iTunes Tools" Source="iTunes Tools\Resources\27531535840381444.png" Description="File successfully backed up as D:\Code\VB\iTunes Tools\Backup\iTunes Tools\Resources\27531535840381444.png">
+</Event><Event ErrorLevel="0" Project="iTunes Tools" Source="iTunes Tools\logo_icon.ico" Description="File successfully backed up as D:\Code\VB\iTunes Tools\Backup\iTunes Tools\logo_icon.ico">
+</Event><Event ErrorLevel="0" Project="iTunes Tools" Source="iTunes Tools\AboutBox1.resx" Description="File successfully backed up as D:\Code\VB\iTunes Tools\Backup\iTunes Tools\AboutBox1.resx">
+</Event><Event ErrorLevel="0" Project="iTunes Tools" Source="iTunes Tools\Form1.resx" Description="File successfully backed up as D:\Code\VB\iTunes Tools\Backup\iTunes Tools\Form1.resx">
+</Event><Event ErrorLevel="0" Project="iTunes Tools" Source="iTunes Tools\Form2.resx" Description="File successfully backed up as D:\Code\VB\iTunes Tools\Backup\iTunes Tools\Form2.resx">
+</Event><Event ErrorLevel="0" Project="iTunes Tools" Source="iTunes Tools\My Project\Resources.resx" Description="File successfully backed up as D:\Code\VB\iTunes Tools\Backup\iTunes Tools\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="iTunes Tools" Source="iTunes Tools\iTunes Tools.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="iTunes Tools" Source="iTunes Tools\iTunes Tools.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="iTunes Tools.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="iTunes Tools.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="iTunes Tools" Source="iTunes Tools\iTunes Tools.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
