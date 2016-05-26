@@ -1,8 +1,0 @@
-F:\Code\C#\iTunesTools2\iTunesTools2\bin\Release\iTunesTools2.dll
-F:\Code\C#\iTunesTools2\iTunesTools2\bin\Release\iTunesTools2.pdb
-F:\Code\C#\iTunesTools2\iTunesTools2\obj\Release\ResolveAssemblyReference.cache
-F:\Code\C#\iTunesTools2\iTunesTools2\obj\Release\ClassLibrary1.AboutBox1.resources
-F:\Code\C#\iTunesTools2\iTunesTools2\obj\Release\ClassLibrary1.frmMain.resources
-F:\Code\C#\iTunesTools2\iTunesTools2\obj\Release\iTunesTools2.csproj.GenerateResource.Cache
-F:\Code\C#\iTunesTools2\iTunesTools2\obj\Release\iTunesTools2.dll
-F:\Code\C#\iTunesTools2\iTunesTools2\obj\Release\iTunesTools2.pdb
